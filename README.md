@@ -15,6 +15,7 @@
 Service Inventory là 1 web api, nhằm thực hiện nhập/xuất sản phẩm 
 
 ### Setup
+* Enviroment: Visual Studio 2022, .Net Core 6.0
 * Packages
 	- Azure.Messageing.ServiceBus
 	- MongoDB.Driver
